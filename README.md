@@ -6,7 +6,7 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 ## Python
 
-- **Episode 1** [Watch On YouTube](https://www.youtube.com)
+- **Episode 1** [Watch On YouTube](https://youtu.be/aBLo4Ds-u4Q)
   - (Century From Year) - 8kyu
   - (camelCase) - 6kyu
   - (Create Phone Number) - 6kyu
