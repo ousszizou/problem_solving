@@ -13,6 +13,11 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 ## JavaScript
 
+- **Episode 2** [Watch On YouTube](https://youtu.be/OjdPg5a6YuY)
+  - (Isograms) - 7kyu
+  - (Factorial) - 7kyu
+  - (Disarium Number) - 7kyu
+
 ## PHP
 
 ## Dart
