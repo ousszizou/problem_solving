@@ -11,6 +11,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
   - (camelCase) - 6kyu
   - (Create Phone Number) - 6kyu
 
+- **Episode 3** [Watch On YouTube](https://youtu.be/aBLo4Ds-u4Q)
+  - (Two Oldest Ages) - 7kyu
+
 ## JavaScript
 
 - **Episode 2** [Watch On YouTube](https://youtu.be/OjdPg5a6YuY)
@@ -21,3 +24,5 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 ## PHP
 
 ## Dart
+
+## GO
