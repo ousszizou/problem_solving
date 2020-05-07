@@ -26,3 +26,7 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 ## Dart
 
 ## GO
+
+- **Episode 4** [Watch On YouTube](https://youtu.be/uZzLpGE8ER4)
+  - (Sum Of Positive) - 8kyu
+  - (Total Amout Of Points) - 8kyu
