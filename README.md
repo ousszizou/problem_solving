@@ -14,6 +14,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 3** [Watch On YouTube](https://youtu.be/aBLo4Ds-u4Q)
   - (Two Oldest Ages) - 7kyu
 
+- **Episode 5** [Watch On YouTube](https://youtu.be/2cd722nVXO0)
+  - (Break camelCase) - 6kyu
+
 ## JavaScript
 
 - **Episode 2** [Watch On YouTube](https://youtu.be/OjdPg5a6YuY)
