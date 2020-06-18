@@ -33,3 +33,7 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 4** [Watch On YouTube](https://youtu.be/uZzLpGE8ER4)
   - (Sum Of Positive) - 8kyu
   - (Total Amout Of Points) - 8kyu
+
+- **Episode 6** [Watch On YouTube](https://youtu.be/zGVVRMjonXA)
+  - (Complementary DNA) - 7kyu
+  - (Sum of Digits / Digital Root) - 6kyu
