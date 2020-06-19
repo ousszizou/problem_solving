@@ -37,3 +37,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 6** [Watch On YouTube](https://youtu.be/zGVVRMjonXA)
   - (Complementary DNA) - 7kyu
   - (Sum of Digits / Digital Root) - 6kyu
+
+- **Episode 7** [Watch On YouTube](https://youtu.be/cF34ohHDHp8)
+  - (Growth of a Population) - 7kyu
