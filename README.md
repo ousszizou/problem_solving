@@ -40,3 +40,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 - **Episode 7** [Watch On YouTube](https://youtu.be/cF34ohHDHp8)
   - (Growth of a Population) - 7kyu
+
+- **Episode 8** [Watch On YouTube]()
+  - (Array element parity) - 7kyu
