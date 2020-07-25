@@ -20,6 +20,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
   - (Array element parity) - 7kyu
 
+- **Episode 9** [Watch On YouTube](https://youtu.be/fV7jJQiOkhk)
+  - (Recursion 101) - 7kyu
+
 ## JavaScript
 
 - **Episode 2** [Watch On YouTube](https://youtu.be/OjdPg5a6YuY)
