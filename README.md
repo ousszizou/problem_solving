@@ -17,6 +17,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 5** [Watch On YouTube](https://youtu.be/2cd722nVXO0)
   - (Break camelCase) - 6kyu
 
+- **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
+  - (Array element parity) - 7kyu
+
 ## JavaScript
 
 - **Episode 2** [Watch On YouTube](https://youtu.be/OjdPg5a6YuY)
@@ -24,9 +27,15 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
   - (Factorial) - 7kyu
   - (Disarium Number) - 7kyu
 
+- **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
+  - (Array element parity) - 7kyu
+
 ## PHP
 
 ## Dart
+
+- **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
+  - (Array element parity) - 7kyu
 
 ## GO
 
