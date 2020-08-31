@@ -55,3 +55,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 - **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
   - (Array element parity) - 7kyu
+
+- **Episode 10** [Watch On YouTube](https://youtu.be/M22-opG5ED4)
+  - (Find the odd int) - 6kyu
