@@ -58,3 +58,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 - **Episode 10** [Watch On YouTube](https://youtu.be/M22-opG5ED4)
   - (Find the odd int) - 6kyu
+
+- **Episode 11** [Watch On YouTube](https://youtu.be/neEkTb2RhGI)
+  - (String array duplicates) - 6kyu
