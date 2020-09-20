@@ -61,3 +61,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 - **Episode 11** [Watch On YouTube](https://youtu.be/neEkTb2RhGI)
   - (String array duplicates) - 6kyu
+
+- **Episode 12** [Watch On YouTube](https://youtu.be/WONGvBMxdrg)
+  - (String ends with?) - 7kyu
