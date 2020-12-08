@@ -33,6 +33,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
   - (Array element parity) - 7kyu
 
+- **Episode 13** [Watch On YouTube](https://youtu.be/cG6gXNOU01E)
+  - (Dominant Array Elements) - 7kyu
+
 ## PHP
 
 ## Dart
