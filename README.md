@@ -2,7 +2,7 @@
 
 You can watch the serie on my YouTube channel via this link 👉 [let's solve problems](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa0xvRjMnokZj3KVEjB2Io-)
 
-I'm going to solve problems by the programming languages that I know __(JavaScript,Python,PHP,Dart,Go)__.
+I'm going to solve problems by the programming languages that I know __(JavaScript,Python,TypeScript,Dart,Go)__.
 
 ## Python
 
@@ -36,8 +36,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 13** [Watch On YouTube](https://youtu.be/cG6gXNOU01E)
   - (Dominant Array Elements) - 7kyu
 
-## PHP
-
 ## Dart
 
 - **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
@@ -67,3 +65,8 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 - **Episode 12** [Watch On YouTube](https://youtu.be/WONGvBMxdrg)
   - (String ends with?) - 7kyu
+
+## TypeScript
+
+- **Episode 14** [Watch On YouTube](https://youtu.be/r79Ghm6cHaQ)
+  - (Over The Road) - 7kyu
