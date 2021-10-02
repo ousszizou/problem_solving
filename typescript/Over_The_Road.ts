@@ -1,4 +1,4 @@
-// JavaScript episode N14
+// TypeScript episode N14
 // challenge N18 => (Over The Road) - 7Kyu
 
 // By ALGORITHM ACADEMY
