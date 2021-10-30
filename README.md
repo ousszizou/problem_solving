@@ -36,6 +36,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 13** [Watch On YouTube](https://youtu.be/cG6gXNOU01E)
   - (Dominant Array Elements) - 7kyu
 
+- **Episode 15** [Watch On YouTube](https://youtu.be/iouhbzH0BQ4)
+  - (Shifter words) - 7kyu
+
 ## Dart
 
 - **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
