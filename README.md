@@ -73,3 +73,6 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 
 - **Episode 14** [Watch On YouTube](https://youtu.be/r79Ghm6cHaQ)
   - (Over The Road) - 7kyu
+
+- **Episode 16** [Watch On YouTube](https://youtu.be/HPWfoDHJbNk)
+  - (Array.diff) - 6kyu
