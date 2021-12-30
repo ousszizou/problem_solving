@@ -39,6 +39,9 @@ I'm going to solve problems by the programming languages that I know __(JavaScri
 - **Episode 15** [Watch On YouTube](https://youtu.be/iouhbzH0BQ4)
   - (Shifter words) - 7kyu
 
+- **Episode 17** [Watch On YouTube](https://youtu.be/L2lQu4RC2do)
+  - (Negative Connotation) - 7kyu
+
 ## Dart
 
 - **Episode 8** [Watch On YouTube](https://youtu.be/-Tf-9tkmiI0)
